@@ -12,10 +12,10 @@ mes = fake.month()
 
 # Resultados
 print(f'Nome: {nome}')
-print(f'Nome Feminino {primeiro_nome_fem}')
-print(f'Usuario {usuário}')
-print(f'Senha {senha}')
-print(f'Mes {mes}')
+print(f'Nome: Feminino {primeiro_nome_fem}')
+print(f'Usuario: {usuário}')
+print(f'Senha: {senha}')
+print(f'Mes: {mes}')
 
 print(f'Projeto - OliveiraHackerSecurity')
 print(f'Use os dados por sua conta e risco...')
