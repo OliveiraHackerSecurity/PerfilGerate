@@ -12,7 +12,7 @@ mes = fake.month()
 
 # Resultados
 print(f'Nome: {nome}')
-print(f'Nome: Feminino {primeiro_nome_fem}')
+print(f'Nome Feminino: {primeiro_nome_fem}')
 print(f'Usuario: {usuario}')
 print(f'Senha: {senha}')
 print(f'Mes: {mes}')
