@@ -8,7 +8,7 @@ nome = fake.name()
 primeiro_nomefem = fake.first_name_female()
 usuario = fake.user_name()
 senha = fake.password()
-mes = fake.month
+mes = fake.month()
 
 # Resultados
 print(f'Nome: {nome}')
