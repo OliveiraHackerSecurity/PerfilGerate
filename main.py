@@ -5,7 +5,7 @@ fake = Faker()
 
 # Cria variáveis com dados fakes
 nome = fake.name()
-primeiro_nomefem = fake.first_name_female()
+primeiro_nome_fem = fake.first_name_female()
 usuario = fake.user_name()
 senha = fake.password()
 mes = fake.month()
